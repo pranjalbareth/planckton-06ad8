@@ -7,7 +7,7 @@ sections:
     title: 'Hi, I''m Ashutosh Patnaik'
     content: 'A Personal Portfolio to Showcase, some of my works, that you may like.'
     actions:
-      - label: 'Contact Us '
+      - label: Let's Talk
         url: /contact
         style: button
   - section_id: latest-projects

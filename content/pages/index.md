@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Welcome to DEVLOG
+    title: 'Hi, I''m Ashutosh Patnaik'
     content: Official SSTC Technical Blog powered by Developers Community
     actions:
       - label: 'Contact Us '

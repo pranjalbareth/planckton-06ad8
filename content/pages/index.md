@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Welcome to DEV
+    title: Welcome to DevLog
     content: Developers Community powered Official SSTC Technical Blog
     actions:
       - label: Let's talk

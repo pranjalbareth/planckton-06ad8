@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Ashutosh Patnaik'
-    content: 'A Portfolio of mine to Showcase, some of my works, that you may like.'
+    content: 'A Personal Portfolio to Showcase, some of my works, that you may like.'
     actions:
       - label: 'Contact Us '
         url: /contact

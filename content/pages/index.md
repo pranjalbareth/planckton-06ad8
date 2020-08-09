@@ -7,7 +7,7 @@ sections:
     title: Welcome to DEVLOG
     content: Developers Community powered Official SSTC Technical Blog
     actions:
-      - label: Let's talk
+      - label: Explor
         url: /contact
         style: button
   - section_id: latest-projects

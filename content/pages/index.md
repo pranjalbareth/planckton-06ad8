@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Welcome to DEVLOG
-    content: Developers Community powered Official SSTC Technical Blog
+    content: Official SSTC Technical Blog powered by Developers Community
     actions:
       - label: 'Contact Us '
         url: /contact
